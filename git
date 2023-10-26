@@ -1,0 +1,9 @@
+[33mc398535[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: checkout: moving from main to main
+[33mc398535[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{1}: revert: Revert "septimo"
+[33m124a5fd[m HEAD@{2}: commit: mergear con dev
+[33m8df43dd[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{3}: checkout: moving from dev to main
+[33m3f34308[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{4}: commit: septimo
+[33m3eb181d[m HEAD@{5}: commit: cuarto quinto y sexto ejercicio
+[33m9ad5986[m HEAD@{6}: commit: ejercicios 1,2,3
+[33m8df43dd[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{7}: checkout: moving from main to dev
+[33m8df43dd[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{8}: commit (initial): creacion index
