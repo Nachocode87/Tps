@@ -6,9 +6,10 @@ do {
         if(numero > 0 && numero < 99999999 && !Number.isNaN(numero)){
             numero = numero % 23           
         } else {
-            alert('escriba un nuemro valido')
+            alert('escriba un numero valido')
         }
-        document.write(codigo[numero]) 
+        document.write('su codigo es ' + codigo[numero]) 
+
     } while ( confirm('desea continuar'));
 
     
